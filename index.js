@@ -35,6 +35,6 @@ const scan = (deviceIp) => {
 };
 
 
-export {
+module.exports = {
     scan
 }
